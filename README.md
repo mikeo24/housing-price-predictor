@@ -56,5 +56,5 @@ The main goal of this project is to **predict real estate prices** using feature
 
 1. Clone the repository:
    ```bash
-   gi clone https://github.com/mikeo24/house_price_prediction_model.git
+   git clone https://github.com/mikeo24/house_price_prediction_model.git
    cd house_price_prediction_model
